@@ -8,6 +8,9 @@ The dataset has attributes like brand, categories, primary categories, reviews.t
 You are required to predict Sentiment or Satisfaction of a purchase based on multiple features and review text.
 Dataset Snapshot
 
+![1566552102_Picture1](https://user-images.githubusercontent.com/52888997/125187524-adbaed00-e24d-11eb-8bda-5cda2236a069.png)
+
+
 
 
 Project Task: Week 1
