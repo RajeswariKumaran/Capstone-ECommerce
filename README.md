@@ -1,4 +1,4 @@
-# Capstone-ECommerce
+# ECommerce-Reviews-LSTM-TopicModelling
 DESCRIPTION
 
 Problem Statement
