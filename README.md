@@ -13,9 +13,7 @@ Dataset Snapshot
 
 
 
-Project Task: Week 1
-
-Class Imbalance Problem:
+I. Class Imbalance Problem:
 
 1. Perform an EDA on the dataset.
 
@@ -27,18 +25,14 @@ Class Imbalance Problem:
 
 3. Run multinomial Naive Bayes classifier. Everything will be classified as positive because of the class imbalance.
 
-Project Task: Week 2
-
-Tackling Class Imbalance Problem:
+II. Tackling Class Imbalance Problem:
 
 Oversampling or undersampling can be used to tackle the class imbalance problem. 
 In case of class imbalance criteria, use the following metrices for evaluating model performance: precision, recall, F1-score, AUC-ROC curve. Use F1-Score as the evaluation criteria for this      project.
 Use Tree-based classifiers like Random Forest and XGBoost.
        Note: Tree-based classifiers work on two ideologies namely, Bagging or Boosting and have fine-tuning parameter which takes care of the imbalanced class.
 
-Project Task: Week 3
-
-Model Selection:
+II. Model Selection:
 
 Apply multi-class SVM’s and neural nets.
 Use possible ensemble techniques like: XGboost + oversampled_multinomial_NB.
@@ -56,9 +50,7 @@ Use LSTM for the previous problem (use parameters of LSTM like top-word, embeddi
 
        Hint: Use techniques like Grid Search, Cross-Validation and Random Search
 
-Optional Tasks: Week 4
-
-Topic Modeling:
+IV. Topic Modeling:
 
    1. Cluster similar reviews.
        Note: Some reviews may talk about the device as a gift-option. Other reviews may be about product looks and some may
